@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "fullName": "Temurbek Mirzayev",
+      "Departament": "IT",
+      "Position": "FullStack Developer",
+      "Gender": "Male",
+      "Age": 19,
+      "id": 2
+    },
+    {
+      "fullName": "Valisher Botirov",
+      "Departament": "IT",
+      "Position": "Frontend Developer",
+      "Gender": "Male",
+      "Age": 21,
+      "id": 3
+    },
+    {
+      "fullName": "Qodirov Yahyobek",
+      "Departament": "Teacher ",
+      "Position": "Math teacher ",
+      "Gender": "Male",
+      "Age": 20,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "fullName": "Muhammadiyev Kamol",
+      "Departament": "Driver",
+      "Position": "B/C/D/E position",
+      "Gender": "Male",
+      "Age": 45,
+      "id": 7
+    },  
+    {
+      "fullName": "Muhammadiyeva Shaxnoza",
+      "Departament": "seamstress",
+      "Position": "Master",
+      "Gender": "Male",
+      "Age": 42,
+      "id": 8
+    },
+    {
+      "fullName": "",
+      "Departament": "",
+      "Position": "",
+      "Gender": "Male",
+      "Age": "",
+      "id": 9
+    },
+    {
+      "fullName": "Mirzayev Temurbek",
+      "Departament": "Hacker",
+      "Position": "Red Hat",
+      "Gender": "Male",
+      "Age": 19,
+      "id": 10
+    },
+    {
+      "fullName": "Botirov Valisher",
+      "Departament": "IT",
+      "Position": "FullStack Developer",
+      "Gender": "Male",
+      "Age": 21,
+      "id": 11
+    }
+  ],
+  "comments": []
+}
